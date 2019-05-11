@@ -10,5 +10,6 @@ public class Car {
 		System.out.println("My name is TestGit");
 		System.out.println("Test Git hot_fix");
 		System.out.println("I like COROLLA...");
+		System.out.println("I like LEVIN...");
 	}
 }
