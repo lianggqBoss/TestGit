@@ -11,5 +11,6 @@ public class Car {
 		System.out.println("Test Git hot_fix");
 		System.out.println("I like COROLLA...");
 		System.out.println("I like LEVIN...");
+		System.out.println("The Lastest Notify");
 	}
 }
